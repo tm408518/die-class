@@ -10,4 +10,11 @@
     remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
     To https://github.com/tm408518/die-class.git
     7f8b5a4..d4a1a36  master -> master
-3.
+3. * master
+4. * header
+    master
+5. README.md  die.h  first-answers.md  second-answers.md
+6. README.md  first-answers.md  second-answers.md
+7. no, the file is not present. In studio code it lists this file as 'die.h      
+    (deleted)'
+8. 
